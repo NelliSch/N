@@ -179,7 +179,7 @@ body {
     display: flex; /* Flexbox aktivieren */
     align-items: left; /* Vertikale Ausrichtung */
     gap: 20px; /* Abstand zwischen Text und Bild */
-    padding: 20px;
+    padding: 5px;
 }
 
 #img .content {
